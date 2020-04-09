@@ -7,12 +7,6 @@
  */
 
 :root {
-    /* Here you can define properties for use with Glasscord. */
-    /* Global properties */
-    /* Main switch: disabling this will disable Glasscord. */
-    --glasscord-enable: true;
-    /* Tint: it's basically a global background color. */
-    --glasscord-tint: rgba(0, 0, 0, 0);
     /* Windows-specific properties */
     /* Blur mode. Available types: acrylic (strong blur), blurbehind (light blur), transparent */
     --glasscord-win-blur: acrylic;
